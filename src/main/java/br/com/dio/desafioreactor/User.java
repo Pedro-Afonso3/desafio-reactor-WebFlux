@@ -6,4 +6,5 @@ public record User(Long id,
                    String password,
                    Boolean isAdmin) {
 
+
 }
